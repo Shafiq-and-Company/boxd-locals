@@ -1,0 +1,16 @@
+{
+  "compatibility_date": "2025-04-01",
+  "main": "src/index.ts",
+  "name": "boxd-locals",
+  "upload_source_maps": true,
+  "d1_databases": [
+    {
+      "binding": "DB",
+      "database_id": "f2e642fa-4add-4334-887c-f6adb2a6761a",
+      "database_name": "d1-locals-database"
+    }
+  ],
+  "observability": {
+    "enabled": true
+  }
+}
